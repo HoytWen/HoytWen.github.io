@@ -15,4 +15,4 @@ Education
 * M.S. in Computer Engineering, The Ohio State University, 2020
 * Ph.D in Computer Science, University of Notre Dame, 2025 (expected)
 
-Under Construction
+Under Construction ...
