@@ -23,17 +23,22 @@ Selected Publications
 ======
 \[[Full List](/publications)\] \[[Google Scholar](https://scholar.google.com/citations?user=cc-uK9gAAAAJ&hl=zh-CN&oi=ao)\]
 
-* Adaptive Kernel Graph Neural Network <br>
-  **<u>M. Ju</u>**, S. Hou, Y. Fan, J. Zhao, Y. Ye, L. Zhao <br>
-  AAAI 22 \[[pdf](https://www.aaai.org/AAAI22Papers/AAAI-3877.JuM.pdf)\] \[[code](https://github.com/jumxglhf/AKGNN)\]
+* Disentangled Dynamic Heterogeneous Graph Learning for Opioid Overdose Prediction <br>
+  **<u>Qianlong Wen</u>**, Zhongyu Ouyang, Jianfei Zhang, Yiyue Qian, Yanfang Ye, Chuxu Zhang <br>
+  [KDD'22] The ACM SIGKDD Conference on Knowledge Discovery and Data Mining
 
-* Heterogeneous Temporal Graph Neural Network <br>
-  Y. Fan, **<u>M. Ju</u>**, C. Zhang, Y. Ye <br>
-  SDM 22 
+* Gophormer: Ego-Graph Transformer for Node Classification <br>
+  Jianan Zhao, Chaozhuo Li, **<u>Qianlong Wen</u>**, Yiqi Wang, Yuming Liu, Hao Sun, Xing Xie, Yanfang Ye <br>
+  Arxiv Preprint, 2021
+  
+* RxNet: Rx-refill Graph Neural Network for Overprescribing Detection <br>
+  Jianfei Zhang, Ai-Te Kuo, Jianan Zhao, **<u>Qianlong Wen</u>**, Erin Winstanley, Chuxu Zhang, Yanfang Ye <br>
+  [CIKM'21] The ACM International Conference on Information and Knowledge Management
 
-* Heterogeneous Temporal Graph Transformer: An Intelligent System for Evolving Android Malware Detection <br>
-  Y. Fan, **<u>M. Ju</u>**, S. Hou, Y. Ye, W. Wan, K. Wang, Y. Mei, Q. Xiong <br>
-  KDD 21 (Applied Data Science Track) \[[pdf](https://dl.acm.org/doi/abs/10.1145/3447548.3467168)\]
+* Multi-view Self-supervised Heterogeneous Graph Embedding <br>
+  Jianan Zhao, **<u>Qianlong Wen</u>**, Shiyu Sun, Yanfang Ye, Chuxu Zhang <br>
+  [ECML/PKDD'21] European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases
+  
 
 Contact
 ======
