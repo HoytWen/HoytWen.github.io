@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -16,7 +16,7 @@ My research field lies in graph machine learning and its application. Specifical
 News
 ======
 * \[2022.08\] I am honored to serve as a PC member for AAAI'23. 
-* \[2022.08\] I will attend KDD'22 and volunteer to serve as a session chair. See you guys at Washington DC!
+* \[2022.08\] I will attend KDD'22 and present my paper. See you guys at Washington DC!
 * \[2022.08\] I have my personal website now :)
 
 Selected Publications
