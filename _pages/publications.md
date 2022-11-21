@@ -5,15 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
+(* stands for equal contribution)
+
 **Pre-prints**
 
 * Gophormer: Ego-Graph Transformer for Node Classification <br>
-  Jianan Zhao, Chaozhuo Li, **<u>Qianlong Wen</u>**, Yiqi Wang, Yuming Liu, Hao Sun, Xing Xie, Yanfang Ye <br>
+  Jianan Zhao*, Chaozhuo Li, **<u>Qianlong Wen</u>***, Yiqi Wang, Yuming Liu, Hao Sun, Xing Xie, Yanfang Ye <br>
   Arxiv Preprint, 2021
 
 **Conference Papers**
-
-(* stands for equal contribution)
 
 * Self-Supervised Graph Structure Refinement for Graph Neural Networks <br>
   Jianan Zhao*, **<u>Qianlong Wen</u>***, Mingxuan Ju, Yanfang Ye, Chuxu Zhang <br>
