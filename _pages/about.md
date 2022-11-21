@@ -15,6 +15,7 @@ My research field lies in graph machine learning and its application. Specifical
 
 News
 ======
+* \[2022.10\] One paper is accepted by WSDM'23. 
 * \[2022.10\] I will serve as a PC member for WWW'23. 
 * \[2022.08\] I am honored to serve as a PC member for AAAI'23. 
 * \[2022.08\] I will attend KDD'22 and present my paper. See you guys at Washington DC!
