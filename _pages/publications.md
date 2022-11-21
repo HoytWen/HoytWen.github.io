@@ -13,6 +13,12 @@ author_profile: true
 
 **Conference Papers**
 
+(* stands for equal contribution)
+
+* Self-Supervised Graph Structure Refinement for Graph Neural Networks <br>
+  Jianan Zhao*, **<u>Qianlong Wen</u>***, Mingxuan Ju, Yanfang Ye, Chuxu Zhang <br>
+  [WSDM'23] The ACM International Conference on Web Search and Data Mining
+
 * Disentangled Dynamic Heterogeneous Graph Learning for Opioid Overdose Prediction <br>
   **<u>Qianlong Wen</u>**, Zhongyu Ouyang, Jianfei Zhang, Yiyue Qian, Yanfang Ye, Chuxu Zhang <br>
   [KDD'22] The ACM SIGKDD Conference on Knowledge Discovery and Data Mining
