@@ -10,7 +10,7 @@ author_profile: true
 **Pre-prints**
 
 * Gophormer: Ego-Graph Transformer for Node Classification <br>
-  Jianan Zhao*, Chaozhuo Li, **<u>Qianlong Wen</u>***, Yiqi Wang, Yuming Liu, Hao Sun, Xing Xie, Yanfang Ye <br>
+  Jianan Zhao\*, Chaozhuo Li, **<u>Qianlong Wen</u>**\*, Yiqi Wang, Yuming Liu, Hao Sun, Xing Xie, Yanfang Ye <br>
   Arxiv Preprint, 2021
 
 **Conference Papers**
