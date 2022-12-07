@@ -36,7 +36,7 @@ Selected Publications
   [KDD'22] The ACM SIGKDD Conference on Knowledge Discovery and Data Mining
 
 * Gophormer: Ego-Graph Transformer for Node Classification <br>
-  Jianan Zhao, Chaozhuo Li, **<u>Qianlong Wen</u>**, Yiqi Wang, Yuming Liu, Hao Sun, Xing Xie, Yanfang Ye <br>
+  Jianan Zhao\*, Chaozhuo Li, **<u>Qianlong Wen</u>**\*, Yiqi Wang, Yuming Liu, Hao Sun, Xing Xie, Yanfang Ye <br>
   Arxiv Preprint, 2021
   
 * RxNet: Rx-refill Graph Neural Network for Overprescribing Detection <br>
