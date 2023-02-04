@@ -15,6 +15,7 @@ My research field lies in graph machine learning and its application. Specifical
 
 News
 ======
+* \[2023.01\] One amazing paper is accepted by ICLR'23. 
 * \[2022.10\] One paper is accepted by WSDM'23. 
 * \[2022.10\] I will serve as a PC member for WWW'23. 
 * \[2022.08\] I am honored to serve as a PC member for AAAI'23. 
@@ -26,6 +27,10 @@ Selected Publications
 \[[Full List](/publications)\] \[[Google Scholar](https://scholar.google.com/citations?user=cc-uK9gAAAAJ&hl=zh-CN&oi=ao)\]
 
 (* stands for equal contribution)
+
+* Multi-task Self-supervised Graph Neural Networks Enable Stronger Task Generalization <br>
+  Mingxuan Ju, Tong Zhao, **<u>Qianlong Wen</u>**, Wenhao Yu, Neil Shah, Yanfang Ye, Chuxu Zhang <br>
+  [ICLR'23] International Conference on Learning Representations
 
 * Self-Supervised Graph Structure Refinement for Graph Neural Networks <br>
   Jianan Zhao\*, **<u>Qianlong Wen</u>**\*, Mingxuan Ju, Yanfang Ye, Chuxu Zhang <br>
