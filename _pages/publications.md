@@ -15,6 +15,18 @@ author_profile: true
 
 **Conference Papers**
 
+* A Multi-Modality Framework for Drug-Drug Interaction Prediction by Harnessing Multi-source Data <br>
+  **<u>Qianlong Wen</u>**, Jiazheng Li, Chuxu Zhang, Yanfang Ye <br>
+  [CIKM'23] The ACM International Conference on Information and Knowledge Management
+
+* When sparsity meets contrastive models: less graph data can bring better class-balanced representations <br>
+  Chunhui Zhang, Chao Huang, Yijun Tian, **<u>Qianlong Wen</u>**, Zhongyu Ouyang, Youhuan Li, Yanfang Ye, Chuxu Zhang <br>
+  [ICML'23] International Conference on Machine Learning
+
+* Multi-task Self-supervised Graph Neural Networks Enable Stronger Task Generalization <br>
+  Mingxuan Ju, Tong Zhao, **<u>Qianlong Wen</u>**, Wenhao Yu, Neil Shah, Yanfang Ye, Chuxu Zhang <br>
+  [ICLR'23] International Conference on Learning Representations
+
 * Self-Supervised Graph Structure Refinement for Graph Neural Networks <br>
   Jianan Zhao\*, **<u>Qianlong Wen</u>**\*, Mingxuan Ju, Yanfang Ye, Chuxu Zhang <br>
   [WSDM'23] The ACM International Conference on Web Search and Data Mining
