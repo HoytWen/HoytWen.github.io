@@ -15,18 +15,26 @@ My research field lies in graph machine learning and its application. Specifical
 
 News
 ======
-* \[2023.01\] One amazing paper is accepted by ICLR'23. 
+* \[2023.10\] I will serve as a PC member for WWW'24. 
+* \[2023.07\] One paper is accepted by CIKM'23. 
+* \[2023.06\] I will join Amazon SCOT as an applied scientist intern.
+* \[2023.05\] One paper is accepted by ICML'23.
+* \[2023.01\] One paper is accepted by ICLR'23.
 * \[2022.10\] One paper is accepted by WSDM'23. 
-* \[2022.10\] I will serve as a PC member for WWW'23. 
-* \[2022.08\] I am honored to serve as a PC member for AAAI'23. 
-* \[2022.08\] I will attend KDD'22 and present my paper. See you guys at Washington DC!
-* \[2022.08\] I have my personal website now :)
 
 Selected Publications
 ======
 \[[Full List](/publications)\] \[[Google Scholar](https://scholar.google.com/citations?user=cc-uK9gAAAAJ&hl=zh-CN&oi=ao)\]
 
 (* stands for equal contribution)
+
+* A Multi-Modality Framework for Drug-Drug Interaction Prediction by Harnessing Multi-source Data <br>
+  **<u>Qianlong Wen</u>**, Jiazheng Li, Chuxu Zhang, Yanfang Ye <br>
+  [CIKM'23] The ACM International Conference on Information and Knowledge Management
+
+* When sparsity meets contrastive models: less graph data can bring better class-balanced representations <br>
+  Chunhui Zhang, Chao Huang, Yijun Tian, **<u>Qianlong Wen</u>**, Zhongyu Ouyang, Youhuan Li, Yanfang Ye, Chuxu Zhang <br>
+  [ICML'23] International Conference on Machine Learning
 
 * Multi-task Self-supervised Graph Neural Networks Enable Stronger Task Generalization <br>
   Mingxuan Ju, Tong Zhao, **<u>Qianlong Wen</u>**, Wenhao Yu, Neil Shah, Yanfang Ye, Chuxu Zhang <br>
@@ -43,10 +51,6 @@ Selected Publications
 * Gophormer: Ego-Graph Transformer for Node Classification <br>
   Jianan Zhao\*, Chaozhuo Li, **<u>Qianlong Wen</u>**\*, Yiqi Wang, Yuming Liu, Hao Sun, Xing Xie, Yanfang Ye <br>
   Arxiv Preprint, 2021
-  
-* RxNet: Rx-refill Graph Neural Network for Overprescribing Detection <br>
-  Jianfei Zhang, Ai-Te Kuo, Jianan Zhao, **<u>Qianlong Wen</u>**, Erin Winstanley, Chuxu Zhang, Yanfang Ye <br>
-  [CIKM'21] The ACM International Conference on Information and Knowledge Management
 
 * Multi-view Self-supervised Heterogeneous Graph Embedding <br>
   Jianan Zhao, **<u>Qianlong Wen</u>**, Shiyu Sun, Yanfang Ye, Chuxu Zhang <br>
