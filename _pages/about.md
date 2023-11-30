@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a third-year Ph.D. candidate (2020 Fall - Now) in Computer Science and Engineering at the [University of Notre Dame](https://www.nd.edu/), advised by [Prof. Fanny Ye](http://yes-lab.org). Before that, I received my M.S. degree from The Ohio State University, advised by [Prof. Ping Zhang](https://web.cse.ohio-state.edu/~zhang.10631/), and my B.S. degree from Xidian University.
+I'm currently a Ph.D. candidate (2020 Fall - Now) in Computer Science and Engineering at the [University of Notre Dame](https://www.nd.edu/), advised by [Prof. Fanny Ye](http://yes-lab.org). Before that, I received my M.S. degree from The Ohio State University, advised by [Prof. Ping Zhang](https://web.cse.ohio-state.edu/~zhang.10631/), and my B.S. degree from Xidian University.
 
 My research field lies in graph machine learning and its application. Specifically, I enjoy doing research on semi-supervised and self-supervised representation learning via graph neural networks. 
 
