@@ -15,6 +15,14 @@ author_profile: true
 
 **Conference Papers**
 
+* From Coarse to Fine: Enable Comprehensive Graph Self-supervised Learning with Multi-granular Semantic Ensemble <br>
+  **<u>Qianlong Wen</u>**, Mingxuan Ju, Zhongyu Ouyang, Chuxu Zhang, Yanfang Ye <br>
+  [ICML'24] International Conference on Machine Learning
+
+* GCVR: Reconstruction from Cross-View Enable Sufficient and Robust Graph Contrastive Learning <br>
+  **<u>Qianlong Wen</u>**, Zhongyu Ouyang, Chunhui Zhang, Yiyue Qian, Chuxu Zhang, Yanfang Ye <br>
+  [UAI'24] Uncertainty in Artificial Intelligence
+
 * A Multi-Modality Framework for Drug-Drug Interaction Prediction by Harnessing Multi-source Data <br>
   **<u>Qianlong Wen</u>**, Jiazheng Li, Chuxu Zhang, Yanfang Ye <br>
   [CIKM'23] The ACM International Conference on Information and Knowledge Management
