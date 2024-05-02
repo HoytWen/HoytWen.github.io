@@ -15,18 +15,29 @@ My research field lies in graph machine learning and its application. Specifical
 
 News
 ======
+* \[2024.05\] One first-author paper is accepted by ICML'24.
+* \[2024.04\] One first-author paper is accepted by UAI'24.
 * \[2023.10\] I will serve as a PC member for WWW'24. 
-* \[2023.07\] One paper is accepted by CIKM'23. 
+* \[2023.07\] One first-author paper is accepted by CIKM'23.
+* \[2023.07\] I will serve as a PC member for NeurIPS'23. 
 * \[2023.06\] I will join Amazon SCOT as an applied scientist intern.
 * \[2023.05\] One paper is accepted by ICML'23.
 * \[2023.01\] One paper is accepted by ICLR'23.
-* \[2022.10\] One paper is accepted by WSDM'23. 
+* \[2022.10\] One first-author paper is accepted by WSDM'23. 
 
 Selected Publications
 ======
 \[[Full List](/publications)\] \[[Google Scholar](https://scholar.google.com/citations?user=cc-uK9gAAAAJ&hl=zh-CN&oi=ao)\]
 
 (* stands for equal contribution)
+
+* From Coarse to Fine: Enable Comprehensive Graph Self-supervised Learning with Multi-granular Semantic Ensemble <br>
+  **<u>Qianlong Wen</u>**, Mingxuan Ju, Zhongyu Ouyang, Chuxu Zhang, Yanfang Ye <br>
+  [ICML'24] International Conference on Machine Learning
+
+* GCVR: Reconstruction from Cross-View Enable Sufficient and Robust Graph Contrastive Learning <br>
+  **<u>Qianlong Wen</u>**, Zhongyu Ouyang, Chunhui Zhang, Yiyue Qian, Chuxu Zhang, Yanfang Ye <br>
+  [UAI'24] Uncertainty in Artificial Intelligence
 
 * A Multi-Modality Framework for Drug-Drug Interaction Prediction by Harnessing Multi-source Data <br>
   **<u>Qianlong Wen</u>**, Jiazheng Li, Chuxu Zhang, Yanfang Ye <br>
