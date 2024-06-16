@@ -27,7 +27,7 @@ News
 
 Selected Publications
 ======
-\[[Full List](/publications)\] \[[Google Scholar](https://scholar.google.com/citations?user=cc-uK9gAAAAJ&hl=zh-CN&oi=ao)\]
+\[[Full List](/publications)\]
 
 (* stands for equal contribution)
 
